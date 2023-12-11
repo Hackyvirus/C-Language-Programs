@@ -1,6 +1,6 @@
 // disclaimer : Sushant believes in writing best and efficient program, not writing currect spelling of variables, so you will find some words with no meaming.
 
-// Write a program to convert centigrade
+// Write a program to convert centigrade 
 #include <stdio.h>
 int main()
 {

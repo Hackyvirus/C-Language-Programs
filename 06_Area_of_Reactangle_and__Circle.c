@@ -1,6 +1,6 @@
 // disclaimer : Sushant believes in writing best and efficient program, not writing currect spelling of variables, so you will find some words with no meaming.
 
-// write a program to calculate area and curcumference of circle and rectangle
+// write a program to calculate area and curcumference of circle and rectangle 
 #include <stdio.h>
 int main()
 {
