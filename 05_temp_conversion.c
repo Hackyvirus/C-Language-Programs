@@ -1,5 +1,8 @@
+// disclaimer : Sushant believes in writing best and efficient program, not writing currect spelling of variables, so you will find some words with no meaming.
+
+
+// write a program to Convert tempreture from Fahrenteit into Centigrade
 #include <stdio.h>
-// Conversion of Fahrenteit into Centigrade
 int main()
 {
         int Fahrenheit, Centigrade; // Declaring Variable to store tempreture
